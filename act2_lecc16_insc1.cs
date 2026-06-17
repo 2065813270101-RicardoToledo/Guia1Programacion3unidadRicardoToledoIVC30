@@ -4,9 +4,9 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("DATOS ACADÉMICOS\nNombre: Daniel Zea" +
+        Console.WriteLine("DATOS ACADÉMICOS\nNombre: Ricardo Toledo" +
             "\nGrado:IVC" +
-            "\nClave:20\n");
+            "\nClave:30\n");
 
     
         int[] edadPersonas = new int[7];
